@@ -1,6 +1,6 @@
-## 💫 About Me:
+## 🧑🏻 About Me:
 
-I'm 16yo from Germany currently learning and improving my programming skills. Right now, I'm focusing on FiveM scripting and UI development, and I enjoy experimenting with new ideas, building small projects, and expanding my knowledge step by step.
+I am 16 years old and from Germany. I am currently learning programming and new languages. I focus on getting better every day and gaining experience. I enjoy learning new things and improving myself.
 
 <br>
 
@@ -11,11 +11,10 @@ I'm 16yo from Germany currently learning and improving my programming skills. Ri
 
 <br>
 
-## 💻 Tech Stack and Tools:
+## 💻 Tech Stack:
 
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://de.wikipedia.org/wiki/Hypertext_Markup_Language)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://de.wikipedia.org/wiki/JavaScript)
 [![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://de.wikipedia.org/wiki/Lua)
 
 [![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
